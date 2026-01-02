@@ -25,7 +25,7 @@ Independent Web3 Security Researcher with a Bachelors in Software Engineering wh
 
 
 ## Some other Achievements
-
+- Cyfrin Updraft Alumni
 - [Node Guardians Profile](https://nodeguardians.io/character/codex-bug-me-not) -  Top-10 in NodeGuardians LeaderBoard (2023-2024)
 - Got First Blood 🩸in Node Guardian's [Vanity Theft](https://nodeguardians.io/quests/vanity-theft?f=1%3D3%263%3D1) quest
 - Contributed to [Ethereum.org Website](https://ethereum.org/) in Bug Hunting by finding Found 1H,1M,1L bugs,you can find me in their [All Contributors List](https://github.com/ethereum/ethereum-org-website?tab=readme-ov-file#contributors)
