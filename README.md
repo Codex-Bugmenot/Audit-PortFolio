@@ -6,7 +6,7 @@
 
 Independent Web3 Security Researcher with a Bachelors in Software Engineering who likes to explore complex protocols and uncover hidden bugs in them.
 
-## Public Contests
+## Private Audits
 
 | Date     | Project                                                                                  | Company                                   |  Report   |
 | -------- | ---------------------------------------------------------------------------------------- | ----------------------------------------- | --------  | 
