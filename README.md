@@ -8,9 +8,9 @@ Independent Web3 Security Researcher with a Bachelors in Software Engineering wh
 
 ## Private Audits
 
-| Date     | Project                                                                                  | Type      | Company                                   |  Report   |
-| -------- | ---------------------------------------------------------------------------------------- |-----------| ----------------------------------------- | --------  | 
-| Jan-2026 | [Mentorable](https://www.mentorable.xyz/)                                                |SocialFi   | [SBSecurity](https://www.sbsecurity.net/) | [Private] | 
+| Date     | Project                                                                                  | Type                           | Company                                   |  Report   |
+| -------- | ---------------------------------------------------------------------------------------- |--------------------------------| ----------------------------------------- | --------  | 
+| Jan-2026 | [Mentorable](https://www.mentorable.xyz/)                                                |Bonding Curve Token launchpad   | [SBSecurity](https://www.sbsecurity.net/) | [Private] | 
 
 ## Public Contests
 
