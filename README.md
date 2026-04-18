@@ -1,6 +1,11 @@
 # Audit-Portfolio - CodexBugmeNot
 
 
+<p align="center">
+  <img src="https://github.com/Codex-Bugmenot/Audit-Portfolio/blob/main/images/CodexBugmeNot.png" width="800" />
+</p>
+
+
 
 ## Introduction
 
