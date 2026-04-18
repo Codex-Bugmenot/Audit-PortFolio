@@ -10,8 +10,8 @@ Independent Web3 Security Researcher with a Bachelors in Software Engineering wh
 
 | Date     | Project                                                                                  |Language         | Description                                    | Company                                   |  Report   |
 | -------- | ---------------------------------------------------------------------------------------- |---------------- |------------------------------------------------| ----------------------------------------- | --------  |
-| Jan-2026 | [Cabal](https://thecabal.xyz/)                                                           | Solidity                 |iUSD Asynchronous Yield Vault on top of Echelon | [SBSecurity](https://www.sbsecurity.net/) | [Report](https://github.com/Codex-Bugmenot/Audit-Portfolio/blob/main/Reports/Cabal%20iUSD%20Vault%20Security%20Review%20-%20SBSecurity.pdf)  |
-| Jan-2026 | [Mentorable](https://www.mentorable.xyz/)                                                | Solidity                 |Bonding Curve Token launchpad                   | [SBSecurity](https://www.sbsecurity.net/) | [Private] | 
+| Jan-2026 | [Cabal](https://thecabal.xyz/)                                                           | [![Solidity](https://img.shields.io/badge/Solidity-blue)](https://www.soliditylang.org/)              |iUSD Asynchronous Yield Vault on top of Echelon | [SBSecurity](https://www.sbsecurity.net/) | [Report](https://github.com/Codex-Bugmenot/Audit-Portfolio/blob/main/Reports/Cabal%20iUSD%20Vault%20Security%20Review%20-%20SBSecurity.pdf)  |
+| Jan-2026 | [Mentorable](https://www.mentorable.xyz/)                                                | [![Solidity](https://img.shields.io/badge/Solidity-blue)](https://www.soliditylang.org/)                 |Bonding Curve Token launchpad                   | [SBSecurity](https://www.sbsecurity.net/) | [Private] | 
 
 ## Public Contests
 
