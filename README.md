@@ -6,14 +6,15 @@
 
 Independent Web3 Security Researcher with a Bachelors in Software Engineering who likes to explore complex protocols and uncover hidden bugs in them.
 
-## Private Audits
+
+## 🕵️ Private Audits
 
 | Date     | Project                                                                                  |Language         | Description                                    | Company                                   |  Report   |
 | -------- | ---------------------------------------------------------------------------------------- |---------------- |------------------------------------------------| ----------------------------------------- | --------  |
 | Jan-2026 | [Cabal](https://thecabal.xyz/)                                                           | [![Solidity](https://img.shields.io/badge/Solidity-blue)](https://www.soliditylang.org/)              |iUSD Asynchronous Yield Vault on top of Echelon | [SBSecurity](https://www.sbsecurity.net/) | [Report](https://github.com/Codex-Bugmenot/Audit-Portfolio/blob/main/Reports/Cabal%20iUSD%20Vault%20Security%20Review%20-%20SBSecurity.pdf)  |
 | Jan-2026 | [Mentorable](https://www.mentorable.xyz/)                                                | [![Solidity](https://img.shields.io/badge/Solidity-blue)](https://www.soliditylang.org/)                 |Bonding Curve Token launchpad                   | [SBSecurity](https://www.sbsecurity.net/) | [Private] | 
 
-## Public Contests
+## 🏆 Public Contests
 
 | Date     | Project                                                                                  | Platform  | Findings | Ranking |
 | -------- | ---------------------------------------------------------------------------------------- | --------- | -------- | ------- |
@@ -40,10 +41,16 @@ Independent Web3 Security Researcher with a Bachelors in Software Engineering wh
 
 
 
-## Some other Achievements
+## 🚀 Some other Achievements
 - Cyfrin Updraft Alumni
 - [Node Guardians Profile](https://nodeguardians.io/character/codex-bug-me-not) -  Top-10 in NodeGuardians LeaderBoard (2023-2024)
 - Got First Blood 🩸in Node Guardian's [Vanity Theft](https://nodeguardians.io/quests/vanity-theft?f=1%3D3%263%3D1) quest
 - Contributed to [Ethereum.org Website](https://ethereum.org/) in Bug Hunting by finding 1H,1M,1L bugs,you can find me in their [All Contributors List](https://github.com/ethereum/ethereum-org-website?tab=readme-ov-file#contributors)
 - Top-32 in the following Secureum Races - 32,33,35,36,40,41
 - owner of [Alchemy University Quiz Master - Level 3 NFT](https://opensea.io/item/polygon/0x8728f6f66ceab2f092bbde42dab380b97b349d19/3)
+
+
+## 📫Contact
+
+- X(Twitter) : [@codex_bugmenot](https://x.com/codex_bugmenot)
+- Telegram   : [@CodexBugmeNot](https://t.me/CodexBugmenot)
