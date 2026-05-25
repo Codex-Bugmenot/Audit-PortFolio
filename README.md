@@ -42,6 +42,7 @@ Independent Web3 Security Researcher with a Bachelors in Software Engineering wh
 - [Node Guardians Profile](https://nodeguardians.io/character/codex-bug-me-not) -  Top-10 in NodeGuardians LeaderBoard (2023-2024)
 - Got First Blood 🩸in Node Guardian's [Vanity Theft](https://nodeguardians.io/quests/vanity-theft?f=1%3D3%263%3D1) quest
 - Contributed to [Ethereum.org Website](https://ethereum.org/) in Bug Hunting by finding 1H,1M,1L bugs,you can find me in their [All Contributors List](https://github.com/ethereum/ethereum-org-website?tab=readme-ov-file#contributors)
+- DefiHackLabs WhiteHat
 - Top-32 in the following Secureum Races - 32,33,35,36,40,41
 - owner of [Alchemy University Quiz Master - Level 3 NFT](https://opensea.io/item/polygon/0x8728f6f66ceab2f092bbde42dab380b97b349d19/3)
 
